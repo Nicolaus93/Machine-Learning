@@ -1,2 +1,2 @@
 # Machine-Learning
-An implementation of the Independent Component analysis
+An implementation of the Independent Component Analysis
